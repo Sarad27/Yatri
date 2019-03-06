@@ -10,9 +10,6 @@ $(document).ready(function() {
   });
 });
 
-$(document).ready(function () {           
-            $('.carousel').carousel();       
-        });
 
 
 $(".effect-on").mouseover(function(){
