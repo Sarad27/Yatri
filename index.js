@@ -18,3 +18,5 @@ $(".effect-on").mouseover(function(){
 $(".effect-on").mouseleave(function(){
   $(".info-guide").fadeOut();
 });
+
+$('.carousel.carousel-slider').carousel({fullWidth: true}).style.height = window.innerHeight + "px";
