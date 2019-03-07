@@ -120,7 +120,7 @@ hr {
 }
 
 .container-small {
-  width: 40%;
+  width: 45%;
   align-items: center;
   margin: 0 auto;
 }
@@ -219,5 +219,11 @@ hr {
 @media(max-width: 1000px){
   .container-small {
     width: 60%;
+  }
+}
+
+@media(max-width : 1025px){
+  .info-guide{
+    display: inline-block;
   }
 }
