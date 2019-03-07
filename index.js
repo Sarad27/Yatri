@@ -12,7 +12,7 @@ $(document).ready(function() {
 
 
 
-$(".effect-on").mouseover(function(){
+$(".effect-on").hover(function(){
   $(".info-guide").fadeIn();
 });
 
